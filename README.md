@@ -1,3 +1,6 @@
+# What is it?
+***knob-strip*** is GIMP script that can be used to create image strips to be used as animation frames for graphic knobs. This script is an adaptation of `script-fu-rotator-withbg` originally written by Andrew Hayden (which in turn derives from `ani-rotate` by Eric Coutier and `Rotator` by Joacim Breiler).
+
 # Installation
 - Check the current Script-Fu folders:
 ![Set/check script folder path](https://raw.github.com/shaduzlabs/knob-strip/master/docs/configure.png)
